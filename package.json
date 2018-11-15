@@ -1,0 +1,14 @@
+{
+    "name": "mathsoc-mailer",
+    "version": "0.1.0",
+    "dependencies": {
+        "csvtojson": "^2.0.7",
+        "googleapis": "^32.0.0",
+        "juice": "^4.3.1",
+        "line-reader": "^0.4.0",
+        "mustache": "^2.3.0",
+        "njwt": "^0.4.0",
+        "nodemailer": "^4.6.7",
+        "secure-random": "^1.1.1"
+    }
+}
